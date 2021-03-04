@@ -16,7 +16,7 @@ El presente repositorio incluye todo el material de las materias que tomé en mi
 
 - *[Microcomputadoras](https://github.com/aMurryFly/microcomputers) | M.I. Ruben Anaya*
 
-- *[Laboratorio de Microcomputadoras](https://github.com/aMurryFly/microcomputers) | M.I. Ruben Anaya*
+- Laboratorio de Microcomputadoras | M.I. Ruben Anaya
 
 - Negocios Electrónicos y desarrollo web | M.I.A Luis Arenas
 
