@@ -10,31 +10,28 @@ El presente repositorio incluye todo el material de las materias que tomé en mi
 
 ### Profesores y materias 
 
-<p align="center">
-    
-    <p align="center">
-  
-    MATERIA: Análisis y procesamiento Inteligente de Textos
-   
-    PROFESSOR: M.P. Octavio Augusto Sanchez Velazquez 
-    </p>
-    
-    <br><p align="center">
-  
-    ## MATERIA: Computación Gráfica Avanzada
-   
-    PROFESSOR: M.P. Octavio Augusto Sanchez Velazquez 
-    
-    </p>
-  
-    
-</p>
+- Análisis y procesamiento inteligente de textos | M.P Octavio Augusto
 
+- *[Computación Gráfica Avanzada](https://github.com/aMurryFly/ComputacionGraficaAvanzada)| ING. Reynaldo Martell*
+
+- *[Microcomputadoras](https://github.com/aMurryFly/microcomputers) | M.I. Ruben Anaya*
+
+- *[Laboratorio de Microcomputadoras](https://github.com/aMurryFly/microcomputers) | M.I. Ruben Anaya*
+
+- Negocios Electrónicos y desarrollo web | M.I.A Luis Arenas
+
+- Sistemas Distribuidos| ING. José Antonio
+
+- Literatura ! MES. Margarita Puebla
+
+- *[Redes de Datos Seguras (CCNA - CISCO) ](https://github.com/aMurryFly/CCNA_CISCO) | ING. José Antonio*
+
+**NOTA:** *Todos los profesores en cursiva tienen su propio repositorio, dar click sobre la materia a consultar* 
 
 ### Programas necesarios 
 
 En esta sección incluyo una lista de todos los programas necesario y recurrentes para compilar o ejecutar proyectos
-NOTA: Cabe destacar que mis notas y documentación estrán en PDF
+NOTA: Cabe destacar que mis notas y documentación estarán en PDF
 -  [waiting]()
 
 
@@ -57,7 +54,6 @@ NOTA: Cabe destacar que mis notas y documentación estrán en PDF
 --> 
   
 ## Contibuciones
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 Las contribuciones son lo que hacen a la comunidad open source ese hermoso lugar para aprender, inspirarte y crear. Cualquier contribución que quieras hacer será **totalmente apreciada** ❤️
 
