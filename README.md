@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">8° Semestre/h3>
+  <h3 align="center">8° Semestre</h3>
 </p>
 
 <!-- ABOUT THE PROJECT -->
