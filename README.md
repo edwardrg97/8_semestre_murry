@@ -14,7 +14,7 @@ El presente repositorio incluye todo el material de las materias que tomé en mi
 
 - *[Computación Gráfica Avanzada](https://github.com/aMurryFly/ComputacionGraficaAvanzada)| ING. Reynaldo Martell*
 
-- *[Microcomputadoras](https://github.com/aMurryFly/microcomputers) | M.I. Ruben Anaya*
+- Microcomputadoras | M.I. Ruben Anaya
 
 - Laboratorio de Microcomputadoras | M.I. Ruben Anaya
 
