@@ -1,2 +1,12 @@
 *.docx
 *.DS_Store
+*.exe
+
+
+# For executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
