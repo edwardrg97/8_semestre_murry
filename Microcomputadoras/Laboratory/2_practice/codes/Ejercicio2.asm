@@ -37,8 +37,13 @@ REVISION2:
 		INCF	FSR; incrementa el FSR
 		MOVF	MENOR,W; Carga el valor de Menor en E
 		MOVWF	AUX2; carga el valor de W en aux2
-		BTFSS	FSR,6; Si llega a 0x40
+		BTFSS	FSR,6; Si llega a 0x40zz
 		GOTO	RESTA; si FSR,6==0
-		GOTO 	$
+		GOTO 	FIN
+FIN:
+		BTFSC	FSR,0; Si llega a 0x41
+		GOTO 	$	
+		GOTO	RESTA; si FSR,0==1
+		
 		END
 		
