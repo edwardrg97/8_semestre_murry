@@ -10,7 +10,7 @@ El presente repositorio incluye todo el material de las materias que tomé en mi
 
 ### Profesores y materias 
 
-- Análisis y procesamiento inteligente de textos | M.P Octavio Augusto
+- [Análisis y procesamiento inteligente de textos](https://github.com/aMurryFly/APIT) | M.P Octavio Augusto
 
 - *[Computación Gráfica Avanzada](https://github.com/aMurryFly/ComputacionGraficaAvanzada)| ING. Reynaldo Martell*
 
