@@ -22,7 +22,7 @@ El presente repositorio incluye todo el material de las materias que tomé en mi
 
 - Sistemas Distribuidos| ING. José Antonio
 
-- Literatura ! MES. Margarita Puebla
+- Literatura | MES. Margarita Puebla
 
 - *[Redes de Datos Seguras (CCNA - CISCO) ](https://github.com/aMurryFly/CCNA_CISCO) | ING. José Antonio*
 
