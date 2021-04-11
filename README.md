@@ -20,7 +20,7 @@ El presente repositorio incluye todo el material de las materias que tomé en mi
 
 - Negocios Electrónicos y desarrollo web | M.I.A Luis Arenas
 
-- Sistemas Distribuidos| ING. José Antonio
+- Sistemas Distribuidos| ING. José Antonio 
 
 - Literatura | MES. Margarita Puebla
 
