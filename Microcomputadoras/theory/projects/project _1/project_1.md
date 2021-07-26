@@ -411,7 +411,7 @@ Para este apartado solamente se empleó una subrutina, sin embargo, es necesario
 
 A continuación se muestra un diagrama de como se escogieron los pixeles que estarían o no encendidos:
 
-![image-20210722000528117](C:\Users\alfon\AppData\Roaming\Typora\typora-user-images\image-20210722000528117.png)
+![image-20210723162304924](C:\Users\alfon\AppData\Roaming\Typora\typora-user-images\image-20210723162304924.png)
 
 
 
