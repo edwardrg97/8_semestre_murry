@@ -1,0 +1,11 @@
+#include <16f877.h>
+#fuses HS,NOPROTECT,
+#use delay(clock=20000000)
+#org 0x1F00, 0x1FFF void loader16F877(void) {}
+int var1;
+void main(){
+   while(1){
+      var1=input_a();//Obtener la información de entrada y guardar en var1
+      output_b(var1);//Salida de var1
+   }//while
+}//main
