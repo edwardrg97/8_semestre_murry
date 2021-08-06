@@ -1,6 +1,6 @@
 
-const char* ssid     = "murryFly";   //your network SSID
-const char* password = "oQEeCponFG";   //your network password
+const char* ssid     = "*****";   //your network SSID
+const char* password = "*****";   //your network password
 
 const char* apssid = "ESP32-CAM";
 const char* appassword = "12345678";        
