@@ -12,8 +12,6 @@ El presente repositorio incluye todo el material de las materias que tomé en mi
 
 - [Análisis y procesamiento inteligente de textos](https://github.com/aMurryFly/APIT) | M.P Octavio Augusto
 
-- *[Computación Gráfica Avanzada](https://github.com/aMurryFly/ComputacionGraficaAvanzada)| ING. Reynaldo Martell*
-
 - Microcomputadoras | M.I. Ruben Anaya
 
 - Laboratorio de Microcomputadoras | M.I. Ruben Anaya
