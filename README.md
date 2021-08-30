@@ -22,7 +22,7 @@ El presente repositorio incluye todo el material de las materias que tomé en mi
 
 - Literatura | MES. Margarita Puebla
 
-- *[Redes de Datos Seguras (CCNA - CISCO) ](https://github.com/aMurryFly/CCNA_CISCO) | ING. José Antonio*
+<!--- *[Redes de Datos Seguras (CCNA - CISCO) ](https://github.com/aMurryFly/CCNA_CISCO) | ING. José Antonio*--> 
 
 **NOTA:** *Todos los profesores en cursiva tienen su propio repositorio, dar click sobre la materia a consultar* 
 
